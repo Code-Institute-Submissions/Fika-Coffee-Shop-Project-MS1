@@ -1,45 +1,109 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Fika Coffee Shop
 
-Welcome USER_NAME,
+One or two paragraphs providing an overview of your project.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+Essentially, this part is your sales pitch.
 
-## Gitpod Reminders
+---
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+# UX
 
-`python3 -m http.server`
+## STRATEGY
 
-A blue button should appear to click: *Make Public*,
+### Focus
+The site owner has a newly built Coffee Shop based in the local village of ferns he is currently using Facebook, 
+Instagram and twitter but wishes to take the final step in creating an online presence by creating a website where customers 
+can easily contact the Coffee shop and review there constantly updating Menu.
 
-Another blue button should appear to click: *Open Browser*.
+### Definition
+The Site owner requires a brand new website to accompany his brand new coffee shop allow customers to easily and clearly 
+find what they are looking for.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Value
+Building this site gives the owner the full online presence he is looking for along with make customers aware of the 
+coffee shops locations and what is available via the menu.
 
-A blue button should appear to click: *Make Public*,
+## SCOPE
 
-Another blue button should appear to click: *Open Browser*.
+### External user’s goal:
+* The site's users are potential customer, who want to know more about what’s on the menu.
+* Customers can easily locate the Coffee shop given its based inside a village.
+* Everything is easy to find on site appealing to customers to come back to the site.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Site owner's goal:
+* FIKA Coffee Shop is interested in attracting and retaining customers.
+* Display there menu.
+* Online Presence.
+* Insure customers are aware of there opening hours.
 
-## Updates Since The Instructional Video
+### Potential features to include:
+* Coffee Shop Menu
+* About the Coffee shop
+* Home page
+* Whats new
+* Gallery
+* Contact/Location
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+## STRUCTURE
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+### Interaction Design
+We want to entice customers visiting the website to show an interest in our menu of what is available to drink and eat 
+and from there using our google maps location, easily find the place.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+### Features
+* Displaying new products that become available
+* Display Company's opening hours
+* Viewing the Menu
+* The location will be available.
+* Information on the company and the Coffee beans used.
+* Display Active Social media icons
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+### Information Architecture
+We want the menu navigation to go like Home, About, Our Menu and Contact / Location,  
+This is the most effective way of displaying it as we are telling a story as we go along from right to left in the menu.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+We want the Menu to be displayed completely on the site to make it easier for customers, 
+also will be displayed is all new Coffees at the very top.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+We want Contact details, and location displayed on the same page, insuring customers don’t 
+have to click around the site searching for information.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+The preference for the home page is attracting customers to view the menu 
+whilst also displaying any new coffee that has become available.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Display Opening Hours.
 
---------
+Give customers a back story on the brand new Coffee Shop and where our fresh Coffee beans come from.
 
-Happy coding!
+## SKELETON
+
+### Wireframes - Desktop / Tablet / Mobile
+[Home](https://drive.google.com/file/d/1J9JKrpYp0quS1dLG2qZ3of4_DzaxZClT/view?usp=sharing)
+[About](https://drive.google.com/file/d/1lm8sIRqByWYsKO7xWgX5oq0VNCw72cu5/view?usp=sharing)
+[Our Menu](https://drive.google.com/file/d/1wFJJ4I3WXV5JcUyHlb1QDr29mIiaTpgD/view?usp=sharing)
+[Contact](https://drive.google.com/file/d/1vLAk6s96upJuWCsRrJvRDJxYRradIpvC/view?usp=sharing)
+
+## SURFACE
+
+[Home Page Mockup](https://drive.google.com/file/d/1URRS-ovybQkNFAfDayLxMoj6YSZM3AxA/view?usp=sharing)
+
+### Fonts
+Crimson Text - 700 Bold
+Montserrat - 400 Regular
+
+### Colours
+![Colour Orange](..images/Orange-EE8726.png) - #EE8726
+![Colour Black](..images/Black.png) - #000000
+![Colour Grey](..images/Grey.png) - #535353
+![Colour Off White](..images/Off-white.png) - #F6F3F2 
+
+
+
+
+## CREDITS
+
+### Content
+
+https://www.codegrepper.com/code-examples/delphi/bootstrap+4+navbar+logo+left+menu+right
+
+https://www.w3schools.com/howto/howto_css_fullscreen_video.asp
