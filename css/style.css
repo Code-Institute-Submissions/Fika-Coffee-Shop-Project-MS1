@@ -11,7 +11,7 @@ p {
   margin: 5px;
 }
 
-#navbarNav .active {
+#mobile-menu .active {
 
     color: #EE8726;
 }
@@ -32,6 +32,27 @@ p {
     padding-right: 10%;
 
 }
+/* buttons */
+
+.btn-primary {
+    font-size: 15px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    background-color: #EE8726;
+    border-color: #EE8726;
+    padding: 15px 30px 15px 30px;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+    background-color: #000000;
+    border-color: #000000;
+    color: #fff;
+}
+
 
 .btn, .btn-outline-primary {
     font-size: 15px;
@@ -52,7 +73,7 @@ p {
     color: #fff;
 }
 
-#navbarNav {
+#mobile-menu{
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     font-size: 14px;
@@ -69,14 +90,17 @@ p {
     border: 0;
     z-index: 1;
     position: absolute;
+    background-color: rgba(0, 0, 0, .65);
+    
 }
 
 .navbar-brand {
-    margin-left: 10% ;
+    margin-left: 5% ;
 }
 
-#navbarNav {
-    margin-right: 10%;
+#mobile-menu{
+    margin-right: 5%;
+    margin-left: 5%;
 }
 
 .navbar-toggler {
@@ -112,7 +136,51 @@ p {
 
     position: relative;
 }
+/* ------------------------------------ About The Coffee Home */
 
+.about-coffee {
+    padding-top: 80px;
+    padding-bottom: 80px;  
+}
+
+.info-title, h4 {
+    text-transform: uppercase;
+    font-size: 15px;
+    padding-bottom: 8px;
+    letter-spacing: 2px;
+}
+
+.large-title, h3 {
+    font-size: 55px;
+    color: #000000;
+    font-family: 'Crimson Text', serif;
+}
+
+.info-text, p {
+    padding: 0 8% 0 8%;
+}
+
+
+.text-layout {
+    padding-top: 10%;
+}
+
+/* ------------------------------------ Opening Hours */
+.opening-hours {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #F6F3F2;
+}
+
+.opening-hours-main {
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px; 
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    border: solid 1px #EE8726;
+}
 
 /* ------------------------------------ Footer */
 
@@ -123,8 +191,8 @@ p {
 }
 
 .structure {
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .mobile-spacing {
@@ -136,7 +204,7 @@ p {
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 
 .coffee-shop {
@@ -175,12 +243,16 @@ p {
     border: solid 1px #000000;
     padding-bottom: 10px;
     padding-top: 10px;
+    padding-right: 10%;
+    padding-left: 10%;
 }
 
 .footer-quote {
     font-family: 'Crimson Text', serif;
     font-size: 40px;
     color: #000000;
+    padding-left: 8%;
+    padding-right: 8%;
 }
 
 

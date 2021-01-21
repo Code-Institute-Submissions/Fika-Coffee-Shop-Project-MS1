@@ -107,3 +107,11 @@ Montserrat - 400 Regular
 https://www.codegrepper.com/code-examples/delphi/bootstrap+4+navbar+logo+left+menu+right
 
 https://www.w3schools.com/howto/howto_css_fullscreen_video.asp
+
+### Media
+
+https://pixabay.com/photos/various-nuts-almond-walnut-1766/
+
+https://www.cleanpng.com/png-hazelnut-food-common-hazel-nutella-walnut-cream-281137/
+
+https://www.cleanpng.com/png-red-velvet-cake-cheesecake-fudge-cake-dessert-choc-918683/
