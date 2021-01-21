@@ -136,7 +136,7 @@ p {
 
     position: relative;
 }
-/* ------------------------------------ About The Coffee Home */
+/* ------------------------------------ Whats New Coffee */
 
 .about-coffee {
     padding-top: 80px;
@@ -182,6 +182,33 @@ p {
     border: solid 1px #EE8726;
 }
 
+.location {
+    padding-top: 20px;
+}
+
+/* ------------------------------------ About the Coffee */
+
+.fa-wifi, i {
+    color: #000000;
+    padding-top: 60px;
+    font-size: 45px;
+}
+
+.wifi, p {
+    font-size: 16px;
+}
+
+.text-layout-about {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+/* ------------------------------------ Gallery */
+
+.gallery {
+    padding-top: 40px;
+    padding-bottom: 80px;  
+}
 /* ------------------------------------ Footer */
 
 .footer-container {
