@@ -11,8 +11,12 @@ p {
   margin: 5px;
 }
 
-#mobile-menu .active {
+.structure {
+    margin-left: 5%;
+    margin-right: 5%;
+}
 
+#mobile-menu, .active {
     color: #EE8726;
 }
  .title, h1 {
@@ -21,6 +25,10 @@ p {
     color: #fff;
     font-size: 85px;
     padding-top: 10%;
+}
+
+.secondary-title, h1 {
+    font-size: 65px;
 }
 
 .second-text, h2 {
@@ -94,6 +102,10 @@ p {
     
 }
 
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #ee8726;
+}
+
 .navbar-brand {
     margin-left: 5% ;
 }
@@ -124,6 +136,23 @@ p {
     height: 100vh;
 
     background: url('../images/coffee-beans-BG.gif') rgba(0, 0, 0, .65)no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-blend-mode: multiply; /* Code From overflow*/
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.img-container-secondary {
+    height: 60vh;
+
+    background: url('../images/About-us-bg.jpg') rgba(0, 0, 0, .65)no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -172,15 +201,16 @@ p {
     background-color: #F6F3F2;
 }
 
-.opening-hours-main {
+.opening-hours-main, table{
     width: 100%;
     font-family: 'Montserrat', sans-serif;
     font-size: 16px; 
     align-items: center;
     justify-content: center;
     background-color: #fff;
-    border: solid 1px #EE8726;
+    border-color: solid 1px #EE8726;
 }
+
 
 .location {
     padding-top: 20px;
@@ -209,17 +239,13 @@ p {
     padding-top: 40px;
     padding-bottom: 80px;  
 }
+
 /* ------------------------------------ Footer */
 
 .footer-container {
     padding-top: 40px;
     background-color: #F6F3F2;
     bottom: 0;
-}
-
-.structure {
-    margin-left: 5%;
-    margin-right: 5%;
 }
 
 .mobile-spacing {
