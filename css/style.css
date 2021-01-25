@@ -140,25 +140,9 @@ p {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
     background-blend-mode: multiply; /* Code From overflow*/
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
 
-    position: relative;
-}
-
-.img-container-secondary {
-    height: 60vh;
-
-    background: url('../images/About-us-bg.jpg') rgba(0, 0, 0, .65)no-repeat bottom right fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-blend-mode: multiply; /* Code From overflow*/
-    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -240,6 +224,120 @@ p {
     padding-bottom: 80px;  
 }
 
+/* ------------------------------------------------------------- Home Page ENDs */
+
+/* ------------------------------------ About Us PAGE */
+
+.img-container-secondary {
+    height: 60vh;
+
+    background: url('../images/About-us-bg.jpg') rgba(0, 0, 0, .65)no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-blend-mode: multiply; /* Code From overflow*/
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.background {
+    background-color: #F6F3F2;
+}
+
+.fa-coffee, i {
+    color: #000000;
+    padding-top: 40px;
+    font-size: 45px;
+}
+
+/* ------------------------------------ Our Menu PAGE */
+.img-container-ourmenu {
+    height: 60vh;
+
+    background: url('../images/Our-Menu-bg.jpg') rgba(0, 0, 0, .65)no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-blend-mode: multiply; /* Code From overflow*/
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+/* ------------------------------------ Contact Us PAGE */
+
+.img-container-contact-us {
+    height: 60vh;
+
+    background: url('../images/Contact-us-bg.jpg') rgba(0, 0, 0, .65)no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-blend-mode: multiply; /* Code From overflow*/
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+/* ------------------------------------ Our Menu PAGE */
+.menu-title {
+    padding-bottom: 40px;
+}
+
+.menu-img {
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.coffee-prices{
+    color: #EE8726;
+    font-style: italic;
+}
+
+.coffee-menu-title {
+    font-size: 40px;
+    color: #000000;
+    font-family: 'Crimson Text', serif;
+}
+
+.new-padding {
+    padding-bottom: 50px;
+}
+
+.menu-list-img {
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+}
+
+.coffee-menu-secondary-title {
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Crimson Text', serif;
+}
+
+.info-menu-text {
+    font-size: 13px;
+    text-transform: capitalize;
+}
+
+.extras {
+    padding-top: 50px;
+}
+
 /* ------------------------------------ Footer */
 
 .footer-container {
@@ -308,4 +406,11 @@ p {
     padding-right: 8%;
 }
 
+/* ------------------------------------ Media Queries */
+
+@media (max-width: 414px) {
+    .menu-list-img {
+        display: none; /* help from stock overflow */
+    }
+}
 

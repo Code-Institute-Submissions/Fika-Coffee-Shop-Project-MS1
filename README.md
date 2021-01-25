@@ -78,10 +78,10 @@ Give customers a back story on the brand new Coffee Shop and where our fresh Cof
 ## SKELETON
 
 ### Wireframes - Desktop / Tablet / Mobile
-[Home](https://drive.google.com/file/d/1J9JKrpYp0quS1dLG2qZ3of4_DzaxZClT/view?usp=sharing)
-[About](https://drive.google.com/file/d/1lm8sIRqByWYsKO7xWgX5oq0VNCw72cu5/view?usp=sharing)
-[Our Menu](https://drive.google.com/file/d/1wFJJ4I3WXV5JcUyHlb1QDr29mIiaTpgD/view?usp=sharing)
-[Contact](https://drive.google.com/file/d/1vLAk6s96upJuWCsRrJvRDJxYRradIpvC/view?usp=sharing)
+* [Home](https://drive.google.com/file/d/1J9JKrpYp0quS1dLG2qZ3of4_DzaxZClT/view?usp=sharing)
+* [About](https://drive.google.com/file/d/1lm8sIRqByWYsKO7xWgX5oq0VNCw72cu5/view?usp=sharing)
+* [Our Menu](https://drive.google.com/file/d/1wFJJ4I3WXV5JcUyHlb1QDr29mIiaTpgD/view?usp=sharing)
+* [Contact](https://drive.google.com/file/d/1vLAk6s96upJuWCsRrJvRDJxYRradIpvC/view?usp=sharing)
 
 ## SURFACE
 
@@ -89,13 +89,86 @@ Give customers a back story on the brand new Coffee Shop and where our fresh Cof
 
 ### Fonts
 Crimson Text - 700 Bold
+
 Montserrat - 400 Regular
 
 ### Colours
-![Colour Orange](..images/Orange-EE8726.png) - #EE8726
-![Colour Black](..images/Black.png) - #000000
-![Colour Grey](..images/Grey.png) - #535353
-![Colour Off White](..images/Off-white.png) - #F6F3F2 
+![Colour Orange](Orange-EE8726.png) - #EE8726
+
+![Colour Black](Black.png) - #000000
+
+![Colour Grey](Grey.png) - #535353
+
+![Colour Off White](Off-white.png) - #F6F3F2 
+
+## Features
+
+
+## Technologies Used
+
+* HTML - For Structuring the site.
+* CSS - For Styling the Site.
+* Bootstrap - For Grid Layout & Components.
+* Font Awesome - icons.
+* Google Font - For two selected fonts.
+* JQuery - For working with Burger menu in mobile view. 
+
+
+## Testing
+
+
+### Bugs Discovered
+
+* Problem1 - I was unable to add a background video with a text overlay.
+```
+Banner with Video wasnt working
+<div class=" section">
+    <div class="video-container">
+        <video autoplay muted>
+            <source src="videos/coffee_bean6.mp4" type="video/mp4">
+        </video> Help From W3school on video
+
+        <div class="header-text">
+            <section class="text-center header-text">
+                <h1 class="title">FALL IN LOVE</h1>
+                <h2 class="second-text">WITH THE TASTE OF OUR FRESH ROASTED COFFEE</h2>
+                <button type="button" class="btn btn-outline-primary">VIEW FULL MENU</button>
+            </section>
+        </div>
+    </div>
+</div>
+```
+* Problem1 SOLVED - I eventaully came to the idea of converting the video into a lower res and cropped gif where I used it as a background image which worked out better as it lowered the size of the file.
+```
+    <div class="container-fluid img-container bg-opacity">
+        <div class="row">
+            <div class="col-12">
+                <section class="text-center header-text">
+                    <h1 class="title">FALL IN LOVE</h1>
+                    <h2 class="second-text">WITH THE TASTE OF OUR FRESH ROASTED COFFEE</h2>
+                    <a class="btn btn-outline-primary" href="ourmenu.html" role="button">VIEW FULL MENU</a>
+                    
+                </section>
+            </div>
+        </div>
+    </div>
+
+    .img-container {
+        height: 100vh;
+        background: url('../images/coffee-beans-BG.gif') rgba(0, 0, 0, .65)no-repeat bottom right fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-blend-mode: multiply; /* Code From overflow*/
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+}
+```
+
+## Deployment
 
 
 
@@ -108,6 +181,8 @@ https://www.codegrepper.com/code-examples/delphi/bootstrap+4+navbar+logo+left+me
 
 https://www.w3schools.com/howto/howto_css_fullscreen_video.asp
 
+https://stackoverflow.com/questions/39819510/remove-an-object-when-on-mobile
+
 ### Media
 
 https://pixabay.com/photos/various-nuts-almond-walnut-1766/
@@ -116,4 +191,12 @@ https://www.cleanpng.com/png-hazelnut-food-common-hazel-nutella-walnut-cream-281
 
 https://www.cleanpng.com/png-red-velvet-cake-cheesecake-fudge-cake-dessert-choc-918683/
 
+https://www.cleanpng.com/png-honey-bee-honeycomb-comb-honey-honey-141425/
+
 https://www.pexels.com/photo/photo-of-spilled-coffee-beans-977878/
+
+https://www.freepik.com/free-psd/coffee-cup-store-low-angle_11631353.htm#page=1&query=coffee%20logo%20mockup&position=1
+
+https://www.pexels.com/photo/art-blur-cappuccino-close-up-302899/
+
+https://www.pexels.com/photo/coffee-contact-email-hands-4831/
