@@ -200,3 +200,9 @@ https://www.freepik.com/free-psd/coffee-cup-store-low-angle_11631353.htm#page=1&
 https://www.pexels.com/photo/art-blur-cappuccino-close-up-302899/
 
 https://www.pexels.com/photo/coffee-contact-email-hands-4831/
+
+https://pixabay.com/photos/sandwich-appetizer-food-snack-dish-1238615/
+
+https://www.freepik.com/free-psd/coffee-shop-premium-quality-board-mockup_3574877.htm
+
+https://pixabay.com/photos/coffee-coffee-grinds-cafe-206142/
