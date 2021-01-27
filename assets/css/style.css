@@ -102,7 +102,8 @@ p {
     
 }
 
-.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, 
+.navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
     color: #ee8726;
 }
 
@@ -194,12 +195,14 @@ p {
     background-color: #fff;
     border-color: solid 1px #EE8726;
 }
-
-
 .location {
-    padding-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
 
+.opening-hours-timetable {
+    margin: 0 auto;
+}
 /* ------------------------------------ About the Coffee */
 
 .fa-wifi, i {
