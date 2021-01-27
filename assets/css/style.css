@@ -351,6 +351,10 @@ p {
     height: 550px;
     padding-bottom: 80px;
 }
+
+.location-title {
+    padding-bottom: 40px;
+}
 /* ------------------------------------ Footer */
 
 .footer-container {
