@@ -78,14 +78,14 @@ Give customers a back story on the brand new Coffee Shop and where our fresh Cof
 ## SKELETON
 
 ### Wireframes - Desktop / Tablet / Mobile
-* [Home](https://drive.google.com/file/d/1J9JKrpYp0quS1dLG2qZ3of4_DzaxZClT/view?usp=sharing)
-* [About](https://drive.google.com/file/d/1lm8sIRqByWYsKO7xWgX5oq0VNCw72cu5/view?usp=sharing)
-* [Our Menu](https://drive.google.com/file/d/1wFJJ4I3WXV5JcUyHlb1QDr29mIiaTpgD/view?usp=sharing)
-* [Contact](https://drive.google.com/file/d/1vLAk6s96upJuWCsRrJvRDJxYRradIpvC/view?usp=sharing)
+* [Home](assets/images/wireframes/Fika-Home-Page.pdf)
+* [About](assets/images/wireframes/Fika-About-Page.pdf)
+* [Our Menu](assets/images/wireframes/Fika-Our-menu-Page.pdf)
+* [Contact](assets/images/wireframes/Fika-Contact-Page.pdf)
 
 ## SURFACE
 
-[Home Page Mockup](https://drive.google.com/file/d/1URRS-ovybQkNFAfDayLxMoj6YSZM3AxA/view?usp=sharing)
+[Home Page Mockup](assets/images/readme-images/Desktop-Home-Fika-Coffee-shop.pdf)
 
 ### Fonts
 Crimson Text - 700 Bold
@@ -93,13 +93,13 @@ Crimson Text - 700 Bold
 Montserrat - 400 Regular
 
 ### Colours
-![Colour Orange](Orange-EE8726.png) - #EE8726
+![Colour Orange](assets/images/readme-images/Orange-EE8726.png) - #EE8726
 
-![Colour Black](Black.png) - #000000
+![Colour Black](assets/images/readme-images/Black.png) - #000000
 
-![Colour Grey](Grey.png) - #535353
+![Colour Grey](assets/images/readme-images/Grey.png) - #535353
 
-![Colour Off White](Off-white.png) - #F6F3F2 
+![Colour Off White](assets/images/readme-images/Off-white.png) - #F6F3F2 
 
 ## Features
 
