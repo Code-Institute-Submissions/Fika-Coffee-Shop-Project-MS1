@@ -80,8 +80,8 @@ Give customers a back story on the brand new Coffee Shop and where our fresh Cof
 ### Wireframes - Desktop / Tablet / Mobile
 * [Home](assets/images/wireframes/Fika-Home-Page.pdf)
 * [About](assets/images/wireframes/Fika-About-Page.pdf)
-* [Our Menu](assets/images/wireframes/Fika-Our-menu-Page.pdf)
-* [Contact](assets/images/wireframes/Fika-Contact-Page.pdf)
+* [Our Menu](assets/images/wireframes/Fika-Our-menu.pdf)
+* [Contact](assets/images/wireframes/Fika-Contact-page.pdf)
 
 ## SURFACE
 
