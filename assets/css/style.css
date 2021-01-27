@@ -277,26 +277,6 @@ p {
     position: relative;
 }
 
-/* ------------------------------------ Contact Us PAGE */
-
-.img-container-contact-us {
-    height: 60vh;
-
-    background: url('../images/Contact-us-bg.jpg') rgba(0, 0, 0, .65)no-repeat bottom right fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-blend-mode: multiply; /* Code From overflow*/
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: relative;
-}
-
-/* ------------------------------------ Our Menu PAGE */
 .menu-title {
     padding-bottom: 40px;
 }
@@ -304,6 +284,7 @@ p {
 .menu-img {
     border-radius: 50%;
     margin-bottom: 20px;
+    height: 180px;
 }
 
 .coffee-prices{
@@ -325,6 +306,7 @@ p {
     border-radius: 50%;
     float: left;
     margin-right: 20px;
+    height: 100px
 }
 
 .coffee-menu-secondary-title {
@@ -341,7 +323,26 @@ p {
 .extras {
     padding-top: 50px;
 }
+
 /* ------------------------------------ Contact Us PAGE */
+
+.img-container-contact-us {
+    height: 60vh;
+
+    background: url('../images/Contact-us-bg.jpg') rgba(0, 0, 0, .65)no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-blend-mode: multiply; /* Code From overflow*/
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
 .contact {
     align-items: center;
 }
