@@ -103,18 +103,70 @@ whilst also displaying any new coffee that has become available.
 
 # Features
 
+## Existing Features
 
-## Technologies Used
+* Responsive on all devices.
 
-* HTML - For Structuring the site.
-* CSS - For Styling the Site.
-* Bootstrap - For Grid Layout & Components.
-* Font Awesome - icons.
-* Google Font - For two selected fonts.
-* JQuery - For working with Burger menu in mobile view. 
+* Simple Navbar design so users can easily navigate through each page.
+
+* Opening hours displyed on the home page and inside the footer.
+
+* Social media icons displayed in the footer and contact page.
+
+* New Menu items displayed clearly on both the home and our menu page.
+
+* Clean menu layout for the users.
+
+* Gallery section giving users an insight to the coffee shop.
+
+* Google maps of location displayed in contact page.
+
+* Simple contact form for user to contact the company of any question they have.
+
+* Bold, large imagery and text so users can clearly find what there looking for on the site.
+
+## Features Left to Implement
+
+* In the future for takeaway customers I would like to add the abilty to purchase your order through the site and select the time you will be arriving to collect it 
+so its prepared the second the customer enters the store.
+
+# Technologies Used
+
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+    * For Structuring the site.
+
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+    * For Styling the Site.
+
+* [Bootstrap](https://getbootstrap.com/)
+    * For Grid Layout & Components.
+
+* [Font Awesome](https://fontawesome.com/)
+    * For certain icons.
+
+* [Google Font](https://fonts.google.com/)
+    * For two selected fonts.
+
+* [JQuery](https://jquery.com/)
+    * For working with Burger menu in mobile view.
+
+* [Github](https://github.com/)
+    * Storing project on.
+
+* [Balsamiq](https://balsamiq.com/wireframes/?gclid=Cj0KCQiA3smABhCjARIsAKtrg6JfbE3I-05NWUBL17jlkE6uDkROXDoD5vXo7UJxVKIjsLVwujyaus0aAhAiEALw_wcB)
+    * Creating wireframes on.
+
+* [Google Chrome Developer Tool](https://developers.google.com/web/tools/chrome-devtools)
+    * Checking my site is responsive on multiple different devices.
+
+* [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
+    * Editing my imagery for the website.
+
+* [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
+    * Creating Fika Coffee Shop Logo
 
 
-## Testing
+# Testing
 
 
 ### Bugs Discovered
