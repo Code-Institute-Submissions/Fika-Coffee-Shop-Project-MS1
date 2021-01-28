@@ -50,7 +50,7 @@ coffee shops locations and what is available via the menu.
 We want to entice customers visiting the website to show an interest in our menu of what is available to drink and eat 
 and from there using our google maps location, easily find the place.
 
-### Features
+### Requirements
 * Displaying new products that become available
 * Display Company's opening hours
 * Viewing the Menu
@@ -59,21 +59,21 @@ and from there using our google maps location, easily find the place.
 * Display Active Social media icons
 
 ### Information Architecture
-We want the menu navigation to go like Home, About, Our Menu and Contact / Location,  
+1. We want the menu navigation to go like Home, About, Our Menu and Contact / Location,  
 This is the most effective way of displaying it as we are telling a story as we go along from right to left in the menu.
 
-We want the Menu to be displayed completely on the site to make it easier for customers, 
+2. We want the Menu to be displayed completely on the site to make it easier for customers, 
 also will be displayed is all new Coffees at the very top.
 
-We want Contact details, and location displayed on the same page, insuring customers don’t 
+3. We want Contact details, and location displayed on the same page, insuring customers don’t 
 have to click around the site searching for information.
 
-The preference for the home page is attracting customers to view the menu 
+4. The preference for the home page is attracting customers to view the menu 
 whilst also displaying any new coffee that has become available.
 
-Display Opening Hours.
+5. Display Opening Hours.
 
-Give customers a back story on the brand new Coffee Shop and where our fresh Coffee beans come from.
+6. Give customers a back story on the brand new Coffee Shop and where our fresh Coffee beans come from.
 
 ## SKELETON
 
@@ -88,20 +88,16 @@ Give customers a back story on the brand new Coffee Shop and where our fresh Cof
 [Home Page Mockup](assets/images/readme-images/Desktop-Home-Fika-Coffee-shop.pdf)
 
 ### Fonts
-Crimson Text - 700 Bold
+* Crimson Text - 700 Bold
 
-Montserrat - 400 Regular
+* Montserrat - 400 Regular
 
 ### Colours
-![Colour Orange](assets/images/readme-images/Orange-EE8726.png) - #EE8726
+![Colour Orange](assets/images/readme-images/Orange-EE8726.png) | ![Colour Black](assets/images/readme-images/Black.png) | ![Colour Grey](assets/images/readme-images/Grey.png) | ![Colour Off White](assets/images/readme-images/Off-white.png)
+--- | --- | --- | ---
+#EE8726 | #000000 | #535353 | #F6F3F2 
 
-![Colour Black](assets/images/readme-images/Black.png) - #000000
-
-![Colour Grey](assets/images/readme-images/Grey.png) - #535353
-
-![Colour Off White](assets/images/readme-images/Off-white.png) - #F6F3F2 
-
-## Features
+# Features
 
 
 ## Technologies Used
