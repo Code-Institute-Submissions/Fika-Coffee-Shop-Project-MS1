@@ -1,8 +1,12 @@
 # Fika Coffee Shop
 
-One or two paragraphs providing an overview of your project.
+This Fictional Website was created as part of my Milestone 1 project for my Full Stack Developer Course with Code Institute.
+The Goal was to display my knowledge of front-end development skills in which I did by creating a 4 page static Coffee Shop website with a clean, modern design 
+thats is straight forward to follow for users on the site.
 
-Essentially, this part is your sales pitch.
+[>> View the live site here <<](https://hellyryan1995.github.io/Fika-Coffee-Shop-Project-MS1/index.html)
+
+![](assets/images/readme-images/responsive-design-img.png)
 
 ---
 
@@ -202,3 +206,5 @@ https://pixabay.com/photos/sandwich-appetizer-food-snack-dish-1238615/
 https://www.freepik.com/free-psd/coffee-shop-premium-quality-board-mockup_3574877.htm
 
 https://pixabay.com/photos/coffee-coffee-grinds-cafe-206142/
+
+### Acknowledgements
