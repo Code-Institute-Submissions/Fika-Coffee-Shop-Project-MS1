@@ -168,6 +168,23 @@ so its prepared the second the customer enters the store.
 
 # Testing
 
+* Throught the developement of the site I used Chrome developer Tool to insure site is responsive on all sites.
+
+* Devices tested on:
+    * 
+
+## Manual Testing
+
+The HTML and CSS was tested through W3C Markup Validator & W3C CSS Validator.
+
+* W3C Markup Validator Results
+    * [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhellyryan1995.github.io%2FFika-Coffee-Shop-Project-MS1%2Findex.html) - Passed
+    * [About Page]() - Passed
+
+## Testing code
+
+## Testing Perfomance
+
 
 ### Bugs Discovered
 
