@@ -178,8 +178,10 @@ so its prepared the second the customer enters the store.
 The HTML and CSS was tested through W3C Markup Validator & W3C CSS Validator.
 
 * W3C Markup Validator Results
-    * [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhellyryan1995.github.io%2FFika-Coffee-Shop-Project-MS1%2Findex.html) - Passed
-    * [About Page]() - Passed
+    * Home Page - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhellyryan1995.github.io%2FFika-Coffee-Shop-Project-MS1%2Findex.html)
+    * About Page - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhellyryan1995.github.io%2FFika-Coffee-Shop-Project-MS1%2Fabout.html)
+    * Our Menu Page - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhellyryan1995.github.io%2FFika-Coffee-Shop-Project-MS1%2Fourmenu.html)
+    * Contact Page - [Results]()
 
 ## Testing code
 
