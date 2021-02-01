@@ -177,13 +177,17 @@ so its prepared the second the customer enters the store.
 
 The HTML and CSS was tested through W3C Markup Validator & W3C CSS Validator.
 
+## Testing code
+
 * W3C Markup Validator Results
     * Home Page - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhellyryan1995.github.io%2FFika-Coffee-Shop-Project-MS1%2Findex.html)
     * About Page - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhellyryan1995.github.io%2FFika-Coffee-Shop-Project-MS1%2Fabout.html)
     * Our Menu Page - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhellyryan1995.github.io%2FFika-Coffee-Shop-Project-MS1%2Fourmenu.html)
     * Contact Page - [Results]()
 
-## Testing code
+* W3C CSS Validator
+
+![CSS Validator Results](assets/images/readme-images/W3C-Validator-Results.png)
 
 ## Testing Perfomance
 
@@ -248,34 +252,39 @@ Banner with Video wasnt working
 
 ### Content
 
-https://www.codegrepper.com/code-examples/delphi/bootstrap+4+navbar+logo+left+menu+right
+* Code used to help position the logo on the right the menu on the left - [codegrepper.com](https://www.codegrepper.com/code-examples/delphi/bootstrap+4+navbar+logo+left+menu+right)
 
-https://www.w3schools.com/howto/howto_css_fullscreen_video.asp
+* Code used to remove menu icons on mobile view - [stackoverflow](https://stackoverflow.com/questions/39819510/remove-an-object-when-on-mobile)
 
-https://stackoverflow.com/questions/39819510/remove-an-object-when-on-mobile
+* Code used to add colour overlay over background image - [stackoverflow](https://stackoverflow.com/questions/36679649/how-to-add-a-color-overlay-to-a-background-image)
+
+* Grid System and Components from - [Boostrap](https://getbootstrap.com/docs/5.0/layout/grid/)
 
 ### Media
 
-https://pixabay.com/photos/various-nuts-almond-walnut-1766/
+* Pixabay - [Sandwhich](https://pixabay.com/photos/sandwich-appetizer-food-snack-dish-1238615/)
 
-https://www.cleanpng.com/png-hazelnut-food-common-hazel-nutella-walnut-cream-281137/
+* Cleanpng - [Hazelnut](https://www.cleanpng.com/png-hazelnut-food-common-hazel-nutella-walnut-cream-281137/) - [Redvelvet-cake](https://www.cleanpng.com/png-red-velvet-cake-cheesecake-fudge-cake-dessert-choc-918683/) - 
+[Honeycomb](https://www.cleanpng.com/png-honey-bee-honeycomb-comb-honey-honey-141425/
+)
 
-https://www.cleanpng.com/png-red-velvet-cake-cheesecake-fudge-cake-dessert-choc-918683/
+* Pexels - [Coffee-Beans-Spilled](https://www.pexels.com/photo/photo-of-spilled-coffee-beans-977878/)
 
-https://www.cleanpng.com/png-honey-bee-honeycomb-comb-honey-honey-141425/
+* Freepik - [Coffee-Cup-Mockup](https://www.freepik.com/free-psd/coffee-cup-store-low-angle_11631353.htm#page=1&query=coffee%20logo%20mockup&position=1)
 
-https://www.pexels.com/photo/photo-of-spilled-coffee-beans-977878/
+* Pexels - [Cappucino-Close-Up](https://www.pexels.com/photo/art-blur-cappuccino-close-up-302899/)
 
-https://www.freepik.com/free-psd/coffee-cup-store-low-angle_11631353.htm#page=1&query=coffee%20logo%20mockup&position=1
+* Pexels - [Coffee-and-phone](https://www.pexels.com/photo/coffee-contact-email-hands-4831/)
 
-https://www.pexels.com/photo/art-blur-cappuccino-close-up-302899/
+* Freepik - [Shop-Sign-Mockup](https://www.freepik.com/free-psd/coffee-shop-premium-quality-board-mockup_3574877.htm)
 
-https://www.pexels.com/photo/coffee-contact-email-hands-4831/
+* Pixabay - [Coffee-Grinds](https://pixabay.com/photos/coffee-coffee-grinds-cafe-206142/)
 
-https://pixabay.com/photos/sandwich-appetizer-food-snack-dish-1238615/
+* Flaticon - [Menu-Icons](https://www.flaticon.com/packs/beverage-7)
 
-https://www.freepik.com/free-psd/coffee-shop-premium-quality-board-mockup_3574877.htm
-
-https://pixabay.com/photos/coffee-coffee-grinds-cafe-206142/
 
 ### Acknowledgements
+
+* Help from my Mentor
+
+* Help from Code Institute lessons
