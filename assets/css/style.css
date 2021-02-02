@@ -352,6 +352,7 @@ p {
     width: 100%;
     height: 550px;
     padding-bottom: 80px;
+    border: none;
 }
 
 .location-title {

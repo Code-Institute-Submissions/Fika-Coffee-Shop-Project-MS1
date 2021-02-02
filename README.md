@@ -168,22 +168,86 @@ so its prepared the second the customer enters the store.
 
 # Testing
 
-* Throught the developement of the site I used Chrome developer Tool to insure site is responsive on all sites.
+* Throught the developement of the site I used Chrome developer Tool to insure site is responsive on all devices.
 
 * Devices tested on:
-    * 
+    * Macbook Pro 13"
+    * Lg 27" Monitor
+    * iPhone 11
+    * All devices in inspector tool.
+
+* Browsers Tested on:
+    * Google Chrome
+    * Safari
+    * Firefox
+
+## UX User Stories
+
+1. Navbar is displayed clearly and constantly on the top right of every page with the text colour displayed 
+in orange on the active page so users are aware of what page they are on.
+
+2. Upon entering the Our Menu page, users are displayed with a clear menu along with three new menu items at the top.
+
+3. Upon entering the Contact page, users are shown a contact form on the left as well as contact details on the right
+and directly below is the google maps location ensuring users can easily locate the coffee shop.
+
+4. On the home page the website has a full width & height banner displayed when first visiting the site with a button
+leading directly to the menu.
+
+5. Users are made aware of the coffee shops opening hours as they are displayed in large on the home page and throughout the footer.
+
+6. The about page provides users the background story of the company and the coffee.
+
 
 ## Manual Testing
 
-The HTML and CSS was tested through W3C Markup Validator & W3C CSS Validator.
+1. Navbar
+    * Contected to each page correctly.
+    * Clicking the logo will bring you back to the home page.
+    * hover effect on all menu items.
+    * Active colour on menu items.
+
+2. Buttons
+    * Buttons all have a hover effect on them.
+    * All "View Full Menu" buttons lead directly to Our Menu Page.
+    * All "Contact Us" Buttons lead directly to Contact Page.
+    * All " Find Out More" Buttons lead directly to the About Page.
+
+3. Our Menu 
+    * Icons displayed on desktop and tablet but removed in mobile view for better usability.
+
+4. Contact form
+    * On Contact Page the contact form is displayed.
+    * Required forms are Name & Email which a warning is displayed if left empty.
+        ![Left Empty](assets/images/readme-images/empty-field.png)
+    * Warning displayed when email not entered correctly.
+        ![Invalid Email](assets/images/readme-images/invalid-email.png)
+    * Page refreshes when form is filled out correctly.
+
+5. Google maps
+    * On Contact Page google maps is displayed.
+    * fully functional and responsive.
+
+6. Socail Icons
+    * Displayed in Footer and Contact page.
+    * Links open in new tab.
+    * Hover effect applied to each socail.
+
+7. Gallery
+    * Displayed on Home & About page.
+    * Fully responsive.
+    * some images removed in mobile view.
+    
 
 ## Testing code
+
+The HTML and CSS was tested through W3C Markup Validator & W3C CSS Validator.
 
 * W3C Markup Validator Results
     * Home Page - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhellyryan1995.github.io%2FFika-Coffee-Shop-Project-MS1%2Findex.html)
     * About Page - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhellyryan1995.github.io%2FFika-Coffee-Shop-Project-MS1%2Fabout.html)
     * Our Menu Page - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhellyryan1995.github.io%2FFika-Coffee-Shop-Project-MS1%2Fourmenu.html)
-    * Contact Page - [Results]()
+    * Contact Page - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhellyryan1995.github.io%2FFika-Coffee-Shop-Project-MS1%2Fcontact.html)
 
 * W3C CSS Validator
 
@@ -191,6 +255,23 @@ The HTML and CSS was tested through W3C Markup Validator & W3C CSS Validator.
 
 ## Testing Perfomance
 
+Tested through Lighthouse in the Chrome Inspector Tool.
+
+![Home Page](assets/images/readme-images/Light-house-Performance-home.png) |
+--- |
+Home Page |
+
+![About Page](assets/images/readme-images/Lighthouse-about.png) |
+--- |
+About Page |
+
+![Our Menu Page](assets/images/readme-images/Lighthouse-our-menu.png) |
+--- |
+Our Menu Page |
+
+![Contact Page](assets/images/readme-images/Lighthouse-contact.png) |
+--- |
+Contact Page |
 
 ### Bugs Discovered
 
@@ -259,6 +340,8 @@ Banner with Video wasnt working
 * Code used to add colour overlay over background image - [stackoverflow](https://stackoverflow.com/questions/36679649/how-to-add-a-color-overlay-to-a-background-image)
 
 * Grid System and Components from - [Boostrap](https://getbootstrap.com/docs/5.0/layout/grid/)
+
+* All written content was done by me.
 
 ### Media
 
