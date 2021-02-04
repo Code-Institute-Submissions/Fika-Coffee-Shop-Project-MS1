@@ -1,5 +1,4 @@
 /* ------------------------------------------- Styling and Colour */
-
 body {
     color: #535353;
 }
@@ -19,6 +18,7 @@ p {
 #mobile-menu, .active {
     color: #EE8726;
 }
+
  .title, h1 {
     font-family: 'Crimson Text', serif;
     text-align: center;
@@ -38,10 +38,9 @@ p {
     font-size: 25px;
     padding-left: 10%;
     padding-right: 10%;
-
 }
-/* buttons */
 
+/* buttons */
 .btn-primary {
     font-size: 15px;
     color: #fff;
@@ -59,7 +58,6 @@ p {
     border-color: #EE8726;
     color: #fff;
 }
-
 
 .btn, .btn-outline-primary {
     font-size: 15px;
@@ -85,20 +83,16 @@ p {
     text-transform: uppercase;
     font-size: 14px;
     color: #ffffff;
-
 }
 
-
 /* ---------------------------------------------- Navbar - Logo - Banner */
-
 .navbar {
     margin-bottom: 0;
     width: 100%;
     border: 0;
     z-index: 1;
     position: absolute;
-    background-color: rgba(0, 0, 0, .65);
-    
+    background-color: rgba(0, 0, 0, .85);  
 }
 
 .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, 
@@ -149,8 +143,8 @@ p {
 
     position: relative;
 }
-/* ------------------------------------ Whats New Coffee */
 
+/* ------------------------------------ Whats New Coffee */
 .about-coffee {
     padding-top: 80px;
     padding-bottom: 80px;  
@@ -173,7 +167,6 @@ p {
     padding: 0 8% 0 8%;
 }
 
-
 .text-layout {
     padding-top: 10%;
 }
@@ -193,6 +186,7 @@ p {
     justify-content: center;
     background-color: #fff;
 }
+
 .location {
     padding-top: 10px;
     padding-bottom: 20px;
@@ -201,8 +195,8 @@ p {
 .opening-hours-timetable {
     margin: 0 auto;
 }
-/* ------------------------------------ About the Coffee */
 
+/* ------------------------------------ About the Coffee */
 .fa-wifi, i {
     color: #000000;
     padding-top: 60px;
@@ -219,7 +213,6 @@ p {
 }
 
 /* ------------------------------------ Gallery */
-
 .gallery {
     padding-top: 40px;
     padding-bottom: 80px;  
@@ -232,7 +225,6 @@ p {
 /* ------------------------------------------------------------- Home Page ENDs */
 
 /* ------------------------------------ About Us PAGE */
-
 .img-container-secondary {
     height: 60vh;
 
@@ -258,6 +250,10 @@ p {
     color: #000000;
     padding-top: 40px;
     font-size: 45px;
+}
+
+.img-gallery {
+    padding-bottom: 30px;
 }
 
 /* ------------------------------------ Our Menu PAGE */
@@ -326,7 +322,6 @@ p {
 }
 
 /* ------------------------------------ Contact Us PAGE */
-
 .img-container-contact-us {
     height: 60vh;
 
@@ -358,8 +353,8 @@ p {
 .location-title {
     padding-bottom: 40px;
 }
-/* ------------------------------------ Footer */
 
+/* ------------------------------------ Footer */
 .footer-container {
     padding-top: 40px;
     background-color: #F6F3F2;
@@ -427,7 +422,6 @@ p {
 }
 
 /* ------------------------------------ Media Queries */
-
 @media (max-width: 414px) {
     .menu-list-img {
         display: none; /* help from stock overflow */
