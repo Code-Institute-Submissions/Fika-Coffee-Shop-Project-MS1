@@ -24,19 +24,23 @@ The Site owner requires a brand new website to accompany his brand new coffee sh
 find what they are looking for.
 
 ### Value
-Building this site gives the owner the full online presence he is looking for along with make customers aware of the 
+Building this site gives the owner the full online presence he is looking for along with making customers aware of the 
 coffee shops locations and what is available via the menu.
 
 ## SCOPE
 
-### External user’s goal:
-* The site's users are potential customer, who want to know more about what’s on the menu.
-* Customers can easily locate the Coffee shop given its based inside a village.
-* Everything is easy to find on site appealing to customers to come back to the site.
+### User stories:
+* Users can view the menu on our menu page and new coffees available.
+* Users can easily locate the Coffee shop through google maps.
+* Users can easily find what there looking for through the navbar and frequent buttons.
+* Users can easily find out the opening hours.
+* Users can contact via contact form and contact details.
+* users can view companys social media pages.
+* Users can view gallery section in about page.
 
 ### Site owner's goal:
 * FIKA Coffee Shop is interested in attracting and retaining customers.
-* Display there menu.
+* Display the menu.
 * Online Presence.
 * Insure customers are aware of there opening hours.
 
@@ -52,7 +56,7 @@ coffee shops locations and what is available via the menu.
 
 ### Interaction Design
 We want to entice customers visiting the website to show an interest in our menu of what is available to drink and eat 
-and from there using our google maps location, easily find the place.
+and from there and using our google maps location can easily find the place.
 
 ### Requirements
 * Displaying new products that become available
@@ -181,7 +185,9 @@ so its prepared the second the customer enters the store.
     * Safari
     * Firefox
 
-## UX User Stories
+## Manual Testing
+
+UX User Stories Testing
 
 1. Navbar is displayed clearly and constantly on the top right of every page with the text colour displayed 
 in orange on the active page so users are aware of what page they are on.
@@ -199,9 +205,7 @@ leading directly to the menu.
 6. The about page provides users the background story of the company and the coffee.
 
 
-## Manual Testing
-
-1. Navbar
+1. Navbar 
     * Contected to each page correctly.
     * Clicking the logo will bring you back to the home page.
     * hover effect on all menu items.
